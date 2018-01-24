@@ -1,8 +1,8 @@
 {
-	"name": "Macro/Orm",
+	"name": "macro/orm",
 	"description": "Macro PHP Orm ",
 	"license": "MIT",
-	"keywords": ["Macro","Orm"],
+	"keywords": ["macro","orm"],
 	"version": "1.0.0",
 	"authors": [
 		{
